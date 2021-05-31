@@ -1,2 +1,2 @@
 # OU
-Some programs I had to write at Ohio University
+Some programs/functions I had to write at Ohio University
