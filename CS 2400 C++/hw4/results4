@@ -1,0 +1,22 @@
+Script started on Mon 27 Feb 2017 11:12:27 PM EST
+dbooker@pu1:~/2400/homework$ ./a.out hw4.cc
+Enter weight in Kilograms and grams
+76 838.4
+76 76838.4 169.375 169.375
+Do you wish to enter in two more weights?
+y
+Enter weight in Kilograms and grams
+19 958.048
+19 19958 44 44
+Do you wish to enter in two more weights?
+
+y
+Enter weight in Kilograms and grams
+169 359
+169 169359 373.375 373.375
+Do you wish to enter in two more weights?
+n
+dbooker@pu1:~/2400/homework$ exit
+exit
+
+Script done on Mon 27 Feb 2017 11:13:24 PM EST

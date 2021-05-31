@@ -1,0 +1,21 @@
+Script started on Tue 21 Feb 2017 03:09:45 PM EST
+dbooker@pu1:~/2400/homework$ exit[1Pnd script./a.out hw3.ccexit[K./a.out hw3.cc
+Enter in a four digit number
+1234
+The Thousands place digit must be three times as much as the tens place digit, try again
+Enter in a four digit number
+9030
+The digits must all be different, try again
+Enter in a four digit number
+9032
+The number must be odd, try again
+Enter in a four digit number
+9031
+The sum of the digits must equal 27, try again
+Enter in a four digit number
+9837
+Congratulations, you have found the secret number!
+dbooker@pu1:~/2400/homework$ exit
+exit
+
+Script done on Tue 21 Feb 2017 03:10:26 PM EST
