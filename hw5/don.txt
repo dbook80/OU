@@ -1,0 +1,23 @@
+Your Jaguar's Home
+The height of your grass is 3 feet
+Your decision to have a thermal comforter is 1
+The length of your river is 10 feet
+Your decision to have rock formation is yes
+Your Jaguar Home
+The depth of your mud pool is 30
+Your house will be created out of bricks
+Your decision to have a fence is a 1
+Your decision to have windows is a no
+Your Bat's Home
+The location of your home is a cave
+The amount of roosts you requested is 200
+Your Gorilla's Home
+The type of a tree you have requested is oak
+Your decision to have vines is no
+Your Lombax's Home
+Your decision is have extra garage space is yes
+Your decision to have a tool drawer is yes
+The amount of cupboard holes you need is 10
+The length of your closet is 5
+The width of your closet is 5
+The height of your closet is 7
