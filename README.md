@@ -8,3 +8,4 @@ hw4 - Kilograms & Grams to Pounds & ounces conversion |
 hw5 - File I/O report of car speeds for police if they need to focus on a specific street |
 (bugged) hw6 - File I/O Manipulating strings to organize a list of people ready for retirement |
 hw7 - Compute fuel efficiency using classes |
+hw8 - Standard Deviation
