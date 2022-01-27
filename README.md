@@ -1,3 +1,4 @@
 # OU
 Some programs/functions I had to write at Ohio University |
-CS courses are all C++ programs
+Hw5 - Family Relationships(Prolog) |
+ELIZA - Attempt at simulating a conversation with AI Eliza.(Conversation references 2008 Prince of Persia video game).  
