@@ -1,3 +1,3 @@
 # OU
-HW1 - Simple word modifier program
+HW6 - Simple word modifier program
 
