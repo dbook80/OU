@@ -1,3 +1,4 @@
 # OU
-Some programs/functions I had to write at Ohio University |
-model view controller GUI template 
+model view controller GUI template using NetBeans IDE |
+The GUI is executed from the model class
+
